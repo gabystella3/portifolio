@@ -60,7 +60,7 @@ h2.titulo{
 
 
 h2.titulo span{
-    color:blueviolet;
+    color:rgb(43, 101, 226);
 }
    
 
@@ -137,7 +137,7 @@ header nav ul li{
     padding: 10px 40px;
     font-size: 18px;
     font-weight: 600;
-    background-color: #9500ffbe;
+    background-color: #67aad6be;
     border: 0;
     border-radius: 30px;
     cursor: pointer;
@@ -160,7 +160,7 @@ header nav ul li{
 
 }
 .btn-contato button:hover{
-    box-shadow: 0px 0px 8px #2d86eb;
+    box-shadow: 0px 0px 8px #478bda;
     transform:scale(1.05);
 }
 
@@ -373,7 +373,7 @@ section.especiliadades.flex{
 
 .especiliadades .especialidades-box i{
     font-size: 70px;
-    color:blueviolet;
+    color:rgb(43, 107, 226);
 }
 
 
@@ -387,7 +387,6 @@ section.especiliadades.flex{
 
 
 }
-
 
 
 
