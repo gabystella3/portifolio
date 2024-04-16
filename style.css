@@ -38,12 +38,12 @@ h2.titulo {
 }
 
 h2.titulo span {
-    color: #006eff;
+    color: #086aeb;
 }
 
 button:hover,
 form .btn-enviar input:hover {
-    box-shadow: 0px 0px 8px #717fff;
+    box-shadow: 0px 0px 8px #1a2ac2;
     transform: scale(1.05);
 }
 
@@ -59,14 +59,14 @@ header>.interface {
 }
 
 header a {
-    color: #f8f8f8;
+    color: #978d8d;
     text-decoration: none;
     display: inline-block;
     transition: .2s;
 }
 
 header nav.menu-desktop a:hover {
-    color: #fff;
+    color: #ffffff;
     transform: scale(1.05);
 }
 
@@ -133,7 +133,7 @@ header nav.menu-desktop ul li {
 }   
 
 .menu-mobile nav ul li a:hover{
-    background-color: #00a2ff;
+    background-color: #75b1d3;
     color: #000;
 }
 
@@ -160,7 +160,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site h1 {
-    color: #fff;
+    color: #fffafa;
     font-size: 42px;
     line-height: 40px;
 }
@@ -170,7 +170,7 @@ section.topo-do-site .flex {
 }
 
 .topo-do-site .txt-topo-site p {
-    color: #fff;
+    color: #d4c6c6;
     margin: 40px 0;
 }
 
@@ -200,7 +200,7 @@ section.especiliadades .flex {
 }
 
 .especiliadades .especialidades-box {
-    color: #fff;
+    color: #c7bebe;
     padding: 40px;
     border-radius: 20px;
     margin-top: 45px;
@@ -209,12 +209,12 @@ section.especiliadades .flex {
 
 .especiliadades .especialidades-box:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 20px #e4e4e3;
+    box-shadow: 0 0 20px #4d91eb;
 }
 
 .especiliadades .especialidades-box i {
     font-size: 70px;
-    color: #003cff;
+    color: #ffffff;
 }
 
 .especiliadades .especialidades-box h3 {
@@ -243,7 +243,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre h2 span {
-    color: #0044ff;
+    color: #5167a3;
     display: block;
 }
 
@@ -257,7 +257,7 @@ section.sobre .flex {
     height: 60px;
     border-radius: 50%;
     border: none;
-    background-color: #001aff;
+    background-color: #728dc9;
     font-size: 22px;
     cursor: pointer;
     margin: 0 5px;
@@ -374,7 +374,7 @@ footer .line-footer {
 }
 
 .borda {
-    border-top: 2px solid #00e1ff;
+    border-top: 2px solid #dbedf0;
 }
 
 footer .line-footer p i {
